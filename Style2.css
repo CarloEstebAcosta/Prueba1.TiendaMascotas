@@ -10,3 +10,7 @@
     margin: 5%;
 }
 
+body{
+    background: url(./fondo.jpg);
+    background-position: center;
+}
