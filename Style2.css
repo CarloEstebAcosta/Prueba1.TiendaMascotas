@@ -12,5 +12,16 @@
 
 body{
     background: url(./Imagenes/fondo.jpg);
+    margin: 15%;
     background-position: center;
+}
+
+.p1{ 
+    font-size: larger;
+    color:white
+
+}
+
+h1{
+    color:white
 }
